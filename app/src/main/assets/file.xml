@@ -1,0 +1,19 @@
+<xml version="1.0">
+    <records>
+        <employee>
+            <name>Pradeep</name>
+            <category>executive</category>
+            <salary>12000</salary>
+        </employee>
+        <employee>
+            <name>Jisha</name>
+            <category>Nurse</category>
+            <salary>15000</salary>
+        </employee>
+        <employee>
+            <name>Kichu</name>
+            <category>Toddler</category>
+            <salary>1000</salary>
+        </employee>
+    </records>
+</xml>
